@@ -8,4 +8,4 @@ Tech stack used - HTML, CSS, NodeJS, ExpressJS, Handlebars
 
 **Production Link->** (https://phimanshu-weather-application.herokuapp.com/).
 
-**Designed By-> Himanshu Pandey**
+**Designed By-> Arjun Singh**
